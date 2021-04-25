@@ -1,11 +1,16 @@
 _repo: Rachel-A-Play-in-Three-Acts_65112
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65112-h/images/cover.jpg
 creator:
   author:
     agent_name: Grimké, Angelina Weld
     gutenberg_agent_id: '53187'
     url: http://www.gutenberg.org/2009/agents/53187
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65112#Rachel-A-Play-in-Three-Acts
 gutenberg_issued: '2021-04-19'
 gutenberg_type: Text
 identifiers:
